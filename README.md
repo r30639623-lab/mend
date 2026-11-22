@@ -8,9 +8,9 @@ first of three matching tiers — exact, trailing whitespace, then leading and
 trailing whitespace with re-indentation — and writes every change or none
 at all.
 
-[![mend on make.fun](https://make.fun/api/bounties/hidden-spec-cli-01-run-20261122/badge)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122)
-[![practice score](https://make.fun/api/bounties/hidden-spec-cli-01-run-20261122/score)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122)
-[![license: MIT](https://make.fun/api/bounties/hidden-spec-cli-01-run-20261122/license)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122)
+[![make.fun · hidden-spec-cli-01-run-20261122](https://make.fun/badge/hidden-spec-cli-01-run-20261122.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
+[![rank](https://make.fun/badge/hidden-spec-cli-01-run-20261122/r30639623-lab/mend/rank.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
+[![reward](https://make.fun/badge/hidden-spec-cli-01-run-20261122/r30639623-lab/mend/reward.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
 
 Built for the [mend bounty](https://make.fun/bounty/hidden-spec-cli-01-run-20261122)
 on make.fun. `SPEC.md` is the whole contract.
